@@ -2,14 +2,18 @@
 
 ## System Information
 
-| Parameter | Value |
-|-----------|------|
-| Name | MajtanURJC |
-| Model | MJT-01 |
-| Field | Robotics & Software Engineering |
-| Status | Learning / Building / Debugging |
-| Location | Earth 🌍 |
+Initializing profile...
 
+```
+Loading identity module...
+Name: Majtan
+
+Loading specialization...
+Field: Robotics & Software Engineering
+
+System status...
+Mode: Learning / Building / Debugging
+```
 ---
 
 ## Core Modules
