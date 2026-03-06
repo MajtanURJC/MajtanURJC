@@ -1,7 +1,5 @@
 # 🤖 Robot Profile: MJT-01
 
-## System Information
-
 Initializing profile...
 
 ```
