@@ -47,18 +47,6 @@ ROS2
 
 ---
 
-## System Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
-
----
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## System Status
 
 ```
