@@ -4,7 +4,7 @@
 
 | Parameter | Value |
 |-----------|------|
-| Name | Majtan |
+| Name | MajtanURJC |
 | Model | MJT-01 |
 | Field | Robotics & Software Engineering |
 | Status | Learning / Building / Debugging |
