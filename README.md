@@ -1,8 +1,8 @@
 # 🤖 Robot Profile: MJT-01
 
+```
 Initializing profile...
 
-```
 Loading identity module...
 Name: Majtan
 
